@@ -1,0 +1,116 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-hot-code-push-plugin",
+        "scope": null,
+        "escapedName": "cordova-hot-code-push-plugin",
+        "name": "cordova-hot-code-push-plugin",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "F:\\cordova\\Test"
+    ]
+  ],
+  "_from": "cordova-hot-code-push-plugin@latest",
+  "_id": "cordova-hot-code-push-plugin@1.5.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-hot-code-push-plugin",
+  "_nodeVersion": "6.8.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-hot-code-push-plugin-1.5.2.tgz_1478446479256_0.7987203132361174"
+  },
+  "_npmUser": {
+    "name": "nikdem",
+    "email": "praetoriax@gmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-hot-code-push-plugin",
+    "scope": null,
+    "escapedName": "cordova-hot-code-push-plugin",
+    "name": "cordova-hot-code-push-plugin",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-hot-code-push-plugin/-/cordova-hot-code-push-plugin-1.5.2.tgz",
+  "_shasum": "83e0c626f500ebfcda502e5e7189ede92af98f97",
+  "_shrinkwrap": null,
+  "_spec": "cordova-hot-code-push-plugin",
+  "_where": "F:\\cordova\\Test",
+  "author": {
+    "name": "Nikolay Demyankov for Nordnet Bank AB"
+  },
+  "bugs": {
+    "url": "https://github.com/nordnet/cordova-hot-code-push/issues"
+  },
+  "cordova": {
+    "id": "cordova-hot-code-push-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "xml2js": "^0.4"
+  },
+  "description": "Cordova plugin to perform code updates on the fly",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "83e0c626f500ebfcda502e5e7189ede92af98f97",
+    "tarball": "https://registry.npmjs.org/cordova-hot-code-push-plugin/-/cordova-hot-code-push-plugin-1.5.2.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.2.0"
+    }
+  ],
+  "gitHead": "eebcc0f33d7150b2410efb8f9169aa2a05554c59",
+  "homepage": "https://github.com/nordnet/cordova-hot-code-push#readme",
+  "keywords": [
+    "cordova",
+    "nordnet",
+    "mobile",
+    "code",
+    "update",
+    "push",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "hassellof",
+      "email": "andreas@ombori.com"
+    },
+    {
+      "name": "nikdem",
+      "email": "praetoriax@gmail.com"
+    }
+  ],
+  "name": "cordova-hot-code-push-plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordnet/cordova-hot-code-push.git"
+  },
+  "scripts": {},
+  "version": "1.5.2"
+}
